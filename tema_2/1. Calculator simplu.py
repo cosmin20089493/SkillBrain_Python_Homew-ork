@@ -1,10 +1,10 @@
 #Cerem numerele de la utilizator
 
-a=int (input ("a="))
-b=int (input ("b="))
+a=int(input("a="))
+b=int(input("b="))
 
 #Calcul
-print ("a+b=", a+b, 
+print("a+b=", a+b, 
        "\n""a-b=", a-b ,
     "\n""a*b=", a*b,
     "\n""impartire  a/b=", a/b,#(b+0.0000001),
