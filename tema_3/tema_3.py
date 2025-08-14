@@ -10,3 +10,5 @@ elif nume_introdus == nume_corect or parola_introdusa == parola_corecta:
     print("User/Password incorect")
 else:
     print("Acces respins")
+
+    #comentariu
